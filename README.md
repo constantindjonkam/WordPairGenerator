@@ -1,10 +1,12 @@
 # WordPairGenerator
 
-This app helps you generate random word pairs. You have higher chances of finding a nice unique name for your brand or whatever.
+This app helps you generate random word pairs. Chances of finding a nice unique name for your brand or whatever with this app is pretty high.
 
-## Getting Started
+## Description
 
 This project was written with the Dart framework, Flutter. This is actually my first app written with this framework.
+
+## Screenshots
 
 ![photo_2021-08-29_00-20-08](https://user-images.githubusercontent.com/70917662/131238281-3f7c105d-c658-4928-8ca8-7ccb60250214.jpg)
 
